@@ -1,8 +1,14 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gauravsri26.gauravsri26&"  />
+<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/38/06/93/3806936e1c0b535ff338121d6e5765df.gif"  />
+</div>
+
+###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gauravsri26.gauravsri26&"  />
 
 ###
 
@@ -49,14 +55,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=gauravsri26&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsri26&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravsri26/gauravsri26/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravsri26/gauravsri26/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gauravsri26/gauravsri26/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
