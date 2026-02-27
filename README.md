@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Gaurav%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Aspiring%20Full-Stack%20Engineer&descAlignY=58&descSize=18&descColor=a0a0c0" />
@@ -14,7 +12,7 @@
 
 <table>
 <tr>
-<td valign="middle" width="67%">
+<td valign="middle" width="60%">
 
 ```javascript
 const gaurav = {
@@ -29,8 +27,8 @@ const gaurav = {
 ```
 
 </td>
-<td valign="middle" width="33%" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="coding gif"/>
+<td valign="middle" width="40%" align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" alt="coding gif"/>
 </td>
 </tr>
 </table>
