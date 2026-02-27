@@ -28,7 +28,7 @@ const gaurav = {
 
 </td>
 <td valign="middle" width="40%" align="center">
-<img src="https://media.giphy.com/media/ZVik7pIojecu0/giphy.gif" width="260" alt="coding gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260" alt="coding gif"/>
 </td>
 </tr>
 </table>
