@@ -87,6 +87,10 @@ const gaurav = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-gauravsri26-181717?style=for-the-badge&logo=github)](https://github.com/gauravsri26)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaurav%20Srivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-srivastava-428b50343/)
+[![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-GauravSri2605-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GauravSri2605)
+[![LeetCode](https://img.shields.io/badge/LeetCode-gauravsrivastava26-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gauravsrivastava26/)
+[![Instagram](https://img.shields.io/badge/Instagram-gauravsri08-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gauravsri08)
 
 </div>
 
