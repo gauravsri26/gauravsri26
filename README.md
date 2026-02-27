@@ -8,9 +8,11 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
-
 ### 👨‍💻 About Me
+
+<table>
+<tr>
+<td valign="middle" width="67%">
 
 ```javascript
 const gaurav = {
@@ -24,7 +26,12 @@ const gaurav = {
 };
 ```
 
-<br clear="right"/>
+</td>
+<td valign="middle" width="33%" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="coding gif"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -97,6 +104,8 @@ const gaurav = {
 ---
 
 <div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=gauravsri26&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)
 
 *"Consistency beats motivation."* 🔥
 
