@@ -1,89 +1,101 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Gaurav%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Aspiring%20Full-Stack%20Engineer&descAlignY=58&descSize=18&descColor=a0a0c0" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+things+with+HTML%2C+CSS+%26+JS;Learning+Full-Stack+Development+%F0%9F%9A%80;Turning+ideas+into+real+projects;Open+to+opportunities+%26+collaborations;Consistency+beats+motivation+%E2%9C%A8" alt="Typing SVG" />
+
+</div>
+
+---
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+
+### 👨‍💻 About Me
+
+```javascript
+const gaurav = {
+  name: "Gaurav Srivastava",
+  role: "Aspiring Full-Stack Developer",
+  location: "India 🇮🇳",
+  currentlyLearning: ["React", "Node.js", "Express"],
+  buildingWith: ["HTML", "CSS", "JavaScript"],
+  goal: "Land my first dev opportunity 🎯",
+  funFact: "I debug with console.log and I'm proud of it 😄"
+};
+```
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/38/06/93/3806936e1c0b535ff338121d6e5765df.gif"  />
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 </div>
 
-###
+---
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gauravsri26.gauravsri26&"  />
+### 🚀 Featured Projects
 
-###
+| Project | Description | Tech |
+|---|---|---|
+| [SkillForge](https://github.com/gauravsri26/SkillForge) | Responsive landing page for an online learning platform | HTML, CSS, Flexbox |
 
-<p align="left">Hi 👋 I’m Gaurav Srivastava<br><br>🚀 Full Stack Developer passionate about building scalable and impactful web applications<br>💻 Focused on writing clean, efficient, and maintainable code<br>🧠 Strong believer in problem-solving and continuous learning<br>🌍 Aspiring to work with global startups and build meaningful SaaS products<br><br>I love turning ideas into real-world digital solutions and improving my skills every single day.</p>
+> More projects coming soon... 👀
 
-###
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-</div>
 
-###
+<img src="https://github-readme-stats.vercel.app/api?username=gauravsri26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsri26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" height="170"/>
+
+</div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gaurav-srivastava-428b50343/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/GauravSri2605" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="gauravsri08" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gauravsri26&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA" />
+
 </div>
 
-###
+---
+
+### 🌱 Currently
+
+- 🔭 Building projects to strengthen my frontend skills
+- 📚 Learning **React** and diving into **Node.js / Express**
+- 🎯 Working towards becoming a **Full-Stack Developer**
+- 👀 Open to **internships, collaborations, and opportunities**
+
+---
+
+### 🤝 Connect With Me
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gauravsri26&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=gauravsri26&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsri26&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+[![GitHub](https://img.shields.io/badge/GitHub-gauravsri26-181717?style=for-the-badge&logo=github)](https://github.com/gauravsri26)
+
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravsri26/gauravsri26/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravsri26/gauravsri26/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gauravsri26/gauravsri26/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
 
-###
+*"Consistency beats motivation."* 🔥
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+
 </div>
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/31gqymzywinuatfxn3pidlmqcxcy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gqymzywinuatfxn3pidlmqcxcy&count=10&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
