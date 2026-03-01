@@ -67,8 +67,8 @@ const gaurav = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gauravsri26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsri26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=gauravsri26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gauravsri26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" height="170"/>
 
 </div>
 
@@ -93,6 +93,7 @@ const gaurav = {
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Email-srivastavagaurav2605%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavagaurav2605@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-gauravsri26-181717?style=for-the-badge&logo=github)](https://github.com/gauravsri26)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaurav%20Srivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-srivastava-428b50343/)
 [![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-GauravSri2605-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GauravSri2605)
