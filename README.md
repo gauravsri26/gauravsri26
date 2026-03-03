@@ -19,7 +19,7 @@ const gaurav = {
   name: "Gaurav Srivastava",
   role: "Aspiring Full-Stack Developer",
   location: "India 🇮🇳",
-  currentlyLearning: ["React", "Node.js", "Express"],
+  currently Learning: ["React", "Node.js", "Express"],
   buildingWith: ["HTML", "CSS", "JavaScript"],
   goal: "Land my first dev opportunity 🎯",
   funFact: "I debug with console.log and I'm proud of it 😄"
