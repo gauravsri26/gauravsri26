@@ -74,7 +74,7 @@ const gaurav = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gauravsri26&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gauravsri26&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA&timezone=Asia%2FKolkata" />
 
 </div>
 
